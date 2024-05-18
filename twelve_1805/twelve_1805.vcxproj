@@ -156,6 +156,9 @@
   <ItemGroup>
     <ClCompile Include="twelve_1805.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="task.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
